@@ -1,0 +1,21 @@
+{
+  "name": "抹茶 · 示例",
+  "mode": "light",
+  "source": "https://styles.refero.design/ （自定义扩展示例）",
+  "vars": {
+    "--bg": "#f4f5f0",
+    "--bg-soft": "#ebece5",
+    "--bg-card": "#fbfbf8",
+    "--bg-hover": "#eef0e8",
+    "--line": "#dcded2",
+    "--text": "#2a2e25",
+    "--text-dim": "#62665a",
+    "--text-faint": "#989b8d",
+    "--accent": "#5d7f4f",
+    "--accent-dim": "rgba(93,127,79,.12)",
+    "--accent-text": "#fbfbf8",
+    "--radius": "10px",
+    "--tracking": "0em",
+    "--font-display": "-apple-system, \"PingFang SC\", \"Noto Sans SC\", sans-serif"
+  }
+}

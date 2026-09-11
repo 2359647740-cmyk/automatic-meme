@@ -1,0 +1,17 @@
+# 个人数据目录 —— 永不入库
+raw/
+persona/
+wiki/
+log/
+audit/
+inbox/
+plans/
+
+# 未授权第三方引用
+references/llm-wiki-skill/
+references/styles/
+
+# 系统垃圾
+.DS_Store
+__pycache__/
+*.pyc
